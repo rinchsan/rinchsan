@@ -3,6 +3,8 @@
 - [Twitter](https://twitter.com/rinchsan)
 - [Hatena Blog](http://snowman-mh.hatenablog.com/)
 - [Wantedly](https://www.wantedly.com/users/19601398)
+- [Filmarks](https://filmarks.com/users/snowman_mh)
+- [Facebook](https://www.facebook.com/mcdonalds.only)
 
 ## Educational Backgrounds
 
