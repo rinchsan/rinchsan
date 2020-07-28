@@ -1,16 +1,17 @@
-### Hi there 👋
+### Social
 
-<!--
-**rinchsan/rinchsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [Twitter](https://twitter.com/rinchsan)
+- [Hatena Blog](http://snowman-mh.hatenablog.com/)
+- [Wantedly](https://www.wantedly.com/users/19601398)
 
-Here are some ideas to get you started:
+### Educational Backgrounds
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- National Institute of Technology, Akashi College (2011-2016)
+  - Major in Electrical and Computer Engineering
+- The University of Tokyo (2016-2019)
+  - Major in Electrical and Electronic Engineering
+
+### Career History
+
+- Software Engineer Internship at ookami / Hatena / Rakuten / Wantedly / CyberAgent / DeNA / ventus (2017-2019)
+- Software Engineer at CyberAgent (2019-)
