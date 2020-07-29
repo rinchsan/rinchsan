@@ -13,5 +13,5 @@
 
 ## Career
 
-- Software Engineer Internship at [@hatena](https://github.com/hatena) / @rakutentech / @wantedly / @cyberagent / @dena (2017-2019)
-- Software Engineer at @cyberagent (2019-)
+- Software Engineer Internship at [@hatena](https://github.com/hatena) / [@rakuten](https://github.com/rakutentech) / [@wantedly](https://github.com/wantedly) / [@cyberagent](https://github.com/cyberagent) / [@dena](https://github.com/dena) (2017-2019)
+- Software Engineer at [@cyberagent](https://github.com/cyberagent) (2019-)
