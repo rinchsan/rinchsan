@@ -8,8 +8,8 @@
 
 ## Education
 
-- National Institute of Technology, Akashi College (Major in Electrical and Computer Engineering) (2011-2016)
-- The University of Tokyo (Major in Electrical and Electronic Engineering) (2016-2019)
+- [National Institute of Technology, Akashi College](https://www.akashi.ac.jp/) (Major in Electrical and Computer Engineering) (2011-2016)
+- [The University of Tokyo](https://www.u-tokyo.ac.jp/) (Major in Electrical and Electronic Engineering) (2016-2019)
 
 ## Career
 
