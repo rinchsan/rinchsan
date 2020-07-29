@@ -8,12 +8,10 @@
 
 ## Education
 
-- National Institute of Technology, Akashi College (2011-2016)
-  - Major in Electrical and Computer Engineering
-- The University of Tokyo (2016-2019)
-  - Major in Electrical and Electronic Engineering
+- National Institute of Technology, Akashi College (Major in Electrical and Computer Engineering) (2011-2016)
+- The University of Tokyo (Major in Electrical and Electronic Engineering) (2016-2019)
 
 ## Career
 
-- Software Engineer Internship at ookami / Hatena / Rakuten / Wantedly / CyberAgent / DeNA / ventus (2017-2019)
-- Software Engineer at CyberAgent (2019-)
+- Software Engineer Internship at @hatena / @rakutentech / @wantedly / @cyberagent / @dena (2017-2019)
+- Software Engineer at @cyberagent (2019-)
