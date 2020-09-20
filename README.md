@@ -1,10 +1,9 @@
 ## Social
 
 - [Twitter](https://twitter.com/rinchsan)
-- [Hatena Blog](http://snowman-mh.hatenablog.com/)
+- [Zenn](https://zenn.dev/rinchsan)
+- [Blog](http://snowman-mh.hatenablog.com/)
 - [Wantedly](https://www.wantedly.com/users/19601398)
-- [Filmarks](https://filmarks.com/users/snowman_mh)
-- [Facebook](https://www.facebook.com/mcdonalds.only)
 
 ## Education
 
@@ -14,4 +13,5 @@
 ## Career
 
 - Software Engineer Internship at [@hatena](https://github.com/hatena) / [@rakuten](https://github.com/rakutentech) / [@wantedly](https://github.com/wantedly) / [@cyberagent](https://github.com/cyberagent) / [@dena](https://github.com/dena) (2017-2019)
-- Software Engineer at [@cyberagent](https://github.com/cyberagent) (2019-)
+- Software Engineer at [@cyberagent](https://github.com/cyberagent) (2019-2020)
+- Software Engineer at [@snkrdunk](https://github.com/snkrdunk) (2020-)
