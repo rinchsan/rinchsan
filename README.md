@@ -1,4 +1,4 @@
-## 🏂
+# 🏂
 
 ![](https://img.shields.io/twitter/follow/rinchsan?label=Twitter&style=social)
 
