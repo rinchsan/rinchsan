@@ -1,9 +1,9 @@
 # 🏂 🏂 🏂
 
-[![](https://komarev.com/ghpvc/?username=rinchsan&color=orange&label=Views)](https://github.com/rinchsan)
-[![](https://img.shields.io/twitter/follow/rinchsan?label=Twitter&style=flat&logo=twitter)](https://twitter.com/rinchsan)
-[![](https://img.shields.io/badge/Zenn-💬-9cf?style=flat&logo=rss)](https://zenn.dev/rinchsan)
-[![](https://img.shields.io/badge/Hatena_Blog-%F0%9F%92%AD-00A4DE?style=flat)](https://snowman-mh.hatenablog.com/)
+[![](https://komarev.com/ghpvc/?username=rinchsan&color=000000&label=Views)](https://github.com/rinchsan)
+[![](https://img.shields.io/badge/-Twitter-000?style=flat&logo=twitter)](https://twitter.com/rinchsan)
+[![](https://img.shields.io/badge/-Zenn-000?style=flat&logo=rss)](https://zenn.dev/rinchsan)
+[![](https://img.shields.io/badge/-Hatena_Blog-000?style=flat&logo=hatena-bookmark)](https://snowman-mh.hatenablog.com/)
 
 [![](https://img.shields.io/badge/-Go-000?style=flat&logo=go)](https://github.com/rinchsan)
 [![](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)](https://github.com/rinchsan)
