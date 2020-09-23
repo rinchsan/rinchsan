@@ -4,6 +4,9 @@
 [![](https://img.shields.io/badge/Zenn-💬-9cf?style=flat&logo=rss)](https://zenn.dev/rinchsan)
 [![](https://img.shields.io/badge/Hatena_Blog-%F0%9F%92%AD-00A4DE?style=flat)](http://snowman-mh.hatenablog.com/)
 
+[![rinchsan's github stats](https://github-readme-stats.vercel.app/api?username=rinchsan&show_icons=true&theme=gruvbox)](https://github.com/rinchsan)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rinchsan&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 🎓 Education
 
 - [National Institute of Technology, Akashi College](https://www.akashi.ac.jp/) (Major in Electrical and Computer Engineering) (2011-2016)
