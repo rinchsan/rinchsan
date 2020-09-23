@@ -2,7 +2,16 @@
 
 [![](https://img.shields.io/twitter/follow/rinchsan?label=Twitter&style=flat&logo=twitter)](https://twitter.com/rinchsan)
 [![](https://img.shields.io/badge/Zenn-💬-9cf?style=flat&logo=rss)](https://zenn.dev/rinchsan)
-[![](https://img.shields.io/badge/Hatena_Blog-%F0%9F%92%AD-00A4DE?style=flat)](http://snowman-mh.hatenablog.com/)
+[![](https://img.shields.io/badge/Hatena_Blog-%F0%9F%92%AD-00A4DE?style=flat)](https://snowman-mh.hatenablog.com/)
+
+[![](https://img.shields.io/badge/-Go-000?style=flat&logo=go)](https://github.com/rinchsan)
+[![](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)](https://github.com/rinchsan)
+[![](https://img.shields.io/badge/-AWS-000?style=flat&logo=amazon-aws)](https://github.com/rinchsan)
+[![](https://img.shields.io/badge/-GCP-000?style=flat&logo=google-cloud)](https://github.com/rinchsan)
+[![](https://img.shields.io/badge/-Firebase-000?style=flat&logo=firebase)](https://github.com/rinchsan)
+[![](https://img.shields.io/badge/-Terraform-000?style=flat&logo=terraform)](https://github.com/rinchsan)
+[![](https://img.shields.io/badge/-GitHub_Actions-000?style=flat&logo=github-actions)](https://github.com/rinchsan)
+[![](https://img.shields.io/badge/-CircleCI-000?style=flat&logo=circleci)](https://github.com/rinchsan)
 
 [![](https://github-readme-stats.vercel.app/api?username=rinchsan&show_icons=true&theme=gruvbox)](https://github.com/rinchsan)
 [![](https://github-profile-trophy.vercel.app/?username=rinchsan&theme=gruvbox&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
