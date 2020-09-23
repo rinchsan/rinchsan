@@ -1,7 +1,7 @@
 # 🏂 🏂 🏂
 
 [![](https://img.shields.io/twitter/follow/rinchsan?label=Twitter&style=flat&logo=twitter)](https://twitter.com/rinchsan)
-[![](https://img.shields.io/badge/Zenn-%F0%9F%8F%82-9cf?style=flat&logo=rss)](https://zenn.dev/rinchsan)
+[![](https://img.shields.io/badge/Zenn-💬-9cf?style=flat&logo=rss)](https://zenn.dev/rinchsan)
 [![](https://img.shields.io/badge/Hatena_Blog-%F0%9F%92%AD-00A4DE?style=flat)](http://snowman-mh.hatenablog.com/)
 
 ## 🎓 Education
