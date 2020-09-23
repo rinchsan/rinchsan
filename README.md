@@ -1,5 +1,3 @@
-# 🏂 🏂 🏂
-
 [![](https://komarev.com/ghpvc/?username=rinchsan&color=000000&label=Views)](https://github.com/rinchsan)
 [![](https://img.shields.io/badge/-Twitter-000?style=flat&logo=twitter)](https://twitter.com/rinchsan)
 [![](https://img.shields.io/badge/-Zenn-000?style=flat&logo=rss)](https://zenn.dev/rinchsan)
