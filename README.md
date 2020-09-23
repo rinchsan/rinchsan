@@ -1,6 +1,6 @@
 # 🏂 🏂 🏂
 
-![](https://img.shields.io/twitter/follow/rinchsan?label=Twitter&style=social)
+[![](https://img.shields.io/twitter/follow/rinchsan?label=Twitter&style=social)](https://twitter.com/rinchsan)
 
 ## Social
 
