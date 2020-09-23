@@ -1,6 +1,9 @@
+## 🏂
+
+![](https://img.shields.io/twitter/follow/rinchsan?label=Twitter&style=social)
+
 ## Social
 
-- [Twitter](https://twitter.com/rinchsan)
 - [Zenn](https://zenn.dev/rinchsan)
 - [Blog](http://snowman-mh.hatenablog.com/)
 - [Wantedly](https://www.wantedly.com/users/19601398)
