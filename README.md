@@ -22,7 +22,6 @@
 [![](https://img.shields.io/badge/-GitHub_Actions-000?style=flat&logo=github-actions)](https://github.com/rinchsan)
 [![](https://img.shields.io/badge/-CircleCI-000?style=flat&logo=circleci)](https://github.com/rinchsan)
 
-
 [![](https://github-readme-stats.vercel.app/api?username=rinchsan&show_icons=true&theme=gruvbox&count_private=true)](https://github.com/rinchsan)
 [![](https://github-profile-trophy.vercel.app/?username=rinchsan&theme=gruvbox&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
