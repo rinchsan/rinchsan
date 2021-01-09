@@ -1,6 +1,6 @@
 <!-- logo from https://simpleicons.org/ -->
 
-[![](https://komarev.com/ghpvc/?username=rinchsan&color=000000&label=Views)](https://github.com/rinchsan)
+[![](https://komarev.com/ghpvc/?username=rinchsan&color=000000&label=👟)](https://github.com/rinchsan)
 [![](https://img.shields.io/badge/-Twitter-000?style=flat&logo=twitter)](https://twitter.com/rinchsan)
 [![](https://img.shields.io/badge/-Zenn-000?style=flat&logo=git)](https://zenn.dev/rinchsan)
 [![](https://img.shields.io/badge/-Qiita-000?style=flat&logo=qiita)](https://qiita.com/rinchsan)
