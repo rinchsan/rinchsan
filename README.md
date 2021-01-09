@@ -26,6 +26,7 @@
 [![](https://img.shields.io/badge/-CircleCI-000?style=flat&logo=circleci)](https://github.com/rinchsan)
 
 [![](https://github-readme-stats.vercel.app/api?username=rinchsan&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true)](https://github.com/rinchsan)
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=rinchsan&layout=compact&theme=gruvbox&langs_count=8)](https://github.com/rinchsan)
 [![](https://github-profile-trophy.vercel.app/?username=rinchsan&theme=gruvbox&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/rinchsan)
 
 ## 🎓 Education
