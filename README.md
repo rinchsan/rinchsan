@@ -29,11 +29,15 @@
 [![](https://img.shields.io/badge/-Renovate-000?style=flat&logo=renovatebot)](https://github.com/rinchsan)
 [![](https://img.shields.io/badge/-Codecov-000?style=flat&logo=codecov)](https://github.com/rinchsan)
 
+Powered by [Shields.io](https://shields.io/) and [Simple Icons](https://simpleicons.org/)
+
 ## 👾 Public Activities
 
 [![](https://github-readme-stats.vercel.app/api/top-langs?username=rinchsan&theme=gruvbox&layout=compact&langs_count=10)](https://github.com/rinchsan)
 [![](https://github-readme-stats.vercel.app/api?username=rinchsan&theme=gruvbox&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/rinchsan)
 [![](https://github-profile-trophy.vercel.app/?username=rinchsan&theme=gruvbox&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/rinchsan)
+
+Powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🖥 Private Activities
 
@@ -41,6 +45,8 @@
 [![](profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/rinchsan)
 [![](profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/rinchsan)
 [![](profile-summary-card-output/dracula/3-stats.svg)](https://github.com/rinchsan)
+
+Powered by [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## 🎓 Education
 
