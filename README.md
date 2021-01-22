@@ -1,3 +1,5 @@
+## Masaya Hayashi - rinchsan
+
 <!-- logo from https://simpleicons.org/ -->
 
 [![](https://komarev.com/ghpvc/?username=rinchsan&color=000000&label=👟)](https://github.com/rinchsan)
@@ -27,9 +29,18 @@
 [![](https://img.shields.io/badge/-Renovate-000?style=flat&logo=renovatebot)](https://github.com/rinchsan)
 [![](https://img.shields.io/badge/-Codecov-000?style=flat&logo=codecov)](https://github.com/rinchsan)
 
+## 👾 Public Activities
+
 [![](https://github-readme-stats.vercel.app/api/top-langs?username=rinchsan&theme=gruvbox&layout=compact&langs_count=10)](https://github.com/rinchsan)
 [![](https://github-readme-stats.vercel.app/api?username=rinchsan&theme=gruvbox&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/rinchsan)
 [![](https://github-profile-trophy.vercel.app/?username=rinchsan&theme=gruvbox&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/rinchsan)
+
+## 🖥 Private Activities
+
+[![](profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/rinchsan)
+[![](profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/rinchsan)
+[![](profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/rinchsan)
+[![](profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/rinchsan)
 
 ## 🎓 Education
 
