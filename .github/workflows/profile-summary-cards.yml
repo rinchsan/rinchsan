@@ -16,6 +16,6 @@ jobs:
       - name: Generate cards
         uses: vn7n24fzkq/github-profile-summary-cards@v0.2.6
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
