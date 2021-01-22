@@ -1,4 +1,4 @@
-## Masaya Hayashi - rinchsan
+## 🏂 Masaya Hayashi - rinchsan
 
 <!-- logo from https://simpleicons.org/ -->
 
