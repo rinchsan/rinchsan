@@ -34,7 +34,7 @@ Powered by [Shields.io](https://shields.io/) and [Simple Icons](https://simpleic
 ## 👾 Public Activities
 
 [![](https://github-readme-stats.vercel.app/api/top-langs?username=rinchsan&theme=gruvbox&layout=compact&langs_count=10)](https://github.com/rinchsan)
-[![](https://github-readme-stats.vercel.app/api?username=rinchsan&theme=gruvbox&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/rinchsan)
+[![](https://github-readme-stats.vercel.app/api?username=rinchsan&theme=gruvbox&show_icons=true&include_all_commits=true)](https://github.com/rinchsan)
 [![](https://github-profile-trophy.vercel.app/?username=rinchsan&theme=gruvbox&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/rinchsan)
 
 Powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
