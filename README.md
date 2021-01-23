@@ -55,8 +55,9 @@
 
 ## ⚙️ This profile is powered by ...
 
-[![](https://img.shields.io/badge/-Shields.io-000?style=flat&logo=shields.io)](https://github.com/rinchsan)
-[![](https://img.shields.io/badge/-Simple%20Icons-000?style=flat&logo=simple-icons)](https://github.com/rinchsan)
-[![](https://img.shields.io/badge/-github--readme--stats-000?style=flat&logo=github)](https://github.com/rinchsan)
-[![](https://img.shields.io/badge/-github--profile--trophy-000?style=flat&logo=github)](https://github.com/rinchsan)
-[![](https://img.shields.io/badge/-github--profile--summary--cards-000?style=flat&logo=github)](https://github.com/rinchsan)
+[![](https://img.shields.io/badge/-Shields.io-000?style=flat&logo=shields.io)](https://shields.io)
+[![](https://img.shields.io/badge/-Simple%20Icons-000?style=flat&logo=simple-icons)](https://simpleicons.org)
+[![](https://img.shields.io/badge/-github--readme--stats-000?style=flat&logo=github)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://img.shields.io/badge/-github--profile--trophy-000?style=flat&logo=github)](https://github.com/ryo-ma/github-profile-trophy)
+[![](https://img.shields.io/badge/-github--profile--summary--cards-000?style=flat&logo=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://img.shields.io/badge/-github--profile--views--counter](https://github.com/antonkomarev/github-profile-views-counter)
