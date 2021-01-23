@@ -25,6 +25,8 @@
 [![](https://img.shields.io/badge/-CircleCI-000?style=flat&logo=circleci)](https://github.com/rinchsan)
 [![](https://img.shields.io/badge/-Renovate-000?style=flat&logo=renovatebot)](https://github.com/rinchsan)
 [![](https://img.shields.io/badge/-Codecov-000?style=flat&logo=codecov)](https://github.com/rinchsan)
+[![](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)](https://github.com/rinchsan)
+[![](https://img.shields.io/badge/-Slack-000?style=flat&logo=slack)](https://github.com/rinchsan)
 
 Powered by [Shields.io](https://shields.io) and [Simple Icons](https://simpleicons.org)
 
@@ -52,6 +54,7 @@ Powered by [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-p
 
 ## 👨‍💻 Career
 
-- Software Engineer Internship at [@hatena](https://github.com/hatena) / [@rakuten](https://github.com/rakutentech) / [@wantedly](https://github.com/wantedly) / [@dena](https://github.com/dena) / [@cyberagent](https://github.com/cyberagent) (2017-2019)
+- Software Engineer Internship at [@hatena](https://github.com/hatena) / [@rakuten](https://github.com/rakutentech) / [@wantedly](https://github.com/wantedly) / [@dena](https://github.com/dena) (2017-2018)
+- Software Engineer Internship at [@cyberagent](https://github.com/cyberagent) (2018-2019)
 - Software Engineer at [@cyberagent](https://github.com/cyberagent) (2019-2020)
 - Software Engineer at [@snkrdunk](https://github.com/snkrdunk) (2020-)
