@@ -2,7 +2,7 @@
 [![](https://img.shields.io/badge/-Twitter-000?style=flat&logo=twitter)](https://twitter.com/rinchsan)
 [![](https://img.shields.io/badge/-Zenn-000?style=flat&logo=zenn)](https://zenn.dev/rinchsan)
 
-## 😎 I like ...
+## :nerd_face: I like ...
 
 [![](https://img.shields.io/badge/-Go-000?style=flat&logo=go)](https://github.com/rinchsan)
 [![](https://img.shields.io/badge/-Vue.js-000?style=flat&logo=vue.js)](https://github.com/rinchsan)
@@ -28,32 +28,32 @@
 [![](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)](https://github.com/rinchsan)
 [![](https://img.shields.io/badge/-Slack-000?style=flat&logo=slack)](https://github.com/rinchsan)
 
-## 👾 Public Activities
+## :space_invader: Public Activities
 
 [![](https://github-readme-stats.vercel.app/api/top-langs?username=rinchsan&theme=gruvbox&layout=compact&langs_count=10)](https://github.com/rinchsan)
 [![](https://github-readme-stats.vercel.app/api?username=rinchsan&theme=gruvbox&show_icons=true&include_all_commits=true)](https://github.com/rinchsan)
 [![](https://github-profile-trophy.vercel.app?username=rinchsan&theme=gruvbox&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/rinchsan)
 
-## 🖥 Private Activities
+## :robot: Private Activities
 
 [![](profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/rinchsan)
 [![](profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/rinchsan)
 [![](profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/rinchsan)
 [![](profile-summary-card-output/dracula/3-stats.svg)](https://github.com/rinchsan)
 
-## 🎓 Education
+## :mortar_board: Education
 
 - [National Institute of Technology, Akashi College](https://www.akashi.ac.jp) (Major in Electrical and Computer Engineering) (2011-2016)
 - [The University of Tokyo](https://www.u-tokyo.ac.jp) (Major in Electrical and Electronic Engineering) (2016-2019)
 
-## 👨‍💻 Career
+## :technologist: Career
 
 - Software Engineer Internship at [@hatena](https://github.com/hatena) / [@rakuten](https://github.com/rakutentech) / [@wantedly](https://github.com/wantedly) / [@dena](https://github.com/dena) / [@cyberagent](https://github.com/cyberagent) (2017-2018)
 - Software Engineer Internship at [@cyberagent](https://github.com/cyberagent) (2018-2019)
 - Software Engineer at [@cyberagent](https://github.com/cyberagent) (2019-2020)
 - Software Engineer at [@snkrdunk](https://github.com/snkrdunk) (2020-)
 
-## ⚙️ Powered by ...
+## :gear: Powered by ...
 
 [![](https://img.shields.io/badge/-Shields.io-000?style=flat&logo=shields.io)](https://shields.io)
 [![](https://img.shields.io/badge/-Simple%20Icons-000?style=flat&logo=simple-icons)](https://simpleicons.org)
