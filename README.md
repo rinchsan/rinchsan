@@ -53,7 +53,7 @@
 - Software Engineer at [@cyberagent](https://github.com/cyberagent) (2019-2020)
 - Software Engineer at [@snkrdunk](https://github.com/snkrdunk) (2020-)
 
-## ⚙️ This profile is powered by ...
+## ⚙️ Powered by ...
 
 [![](https://img.shields.io/badge/-Shields.io-000?style=flat&logo=shields.io)](https://shields.io)
 [![](https://img.shields.io/badge/-Simple%20Icons-000?style=flat&logo=simple-icons)](https://simpleicons.org)
