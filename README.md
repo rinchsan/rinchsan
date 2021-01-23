@@ -60,4 +60,4 @@
 [![](https://img.shields.io/badge/-github--readme--stats-000?style=flat&logo=github)](https://github.com/anuraghazra/github-readme-stats)
 [![](https://img.shields.io/badge/-github--profile--trophy-000?style=flat&logo=github)](https://github.com/ryo-ma/github-profile-trophy)
 [![](https://img.shields.io/badge/-github--profile--summary--cards-000?style=flat&logo=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://img.shields.io/badge/-github--profile--views--counter](https://github.com/antonkomarev/github-profile-views-counter)
+[![](https://img.shields.io/badge/-github--profile--views--counter-000?style=flat&logo=github)](https://github.com/antonkomarev/github-profile-views-counter)
