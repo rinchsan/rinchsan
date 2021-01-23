@@ -1,10 +1,11 @@
-## 🏂 Masaya Hayashi - rinchsan
-
 [![](https://komarev.com/ghpvc/?username=rinchsan&color=000000&label=👟)](https://github.com/rinchsan)
 [![](https://img.shields.io/badge/-Twitter-000?style=flat&logo=twitter)](https://twitter.com/rinchsan)
 [![](https://img.shields.io/badge/-Zenn-000?style=flat&logo=zenn)](https://zenn.dev/rinchsan)
 
+## I like ...
+
 [![](https://img.shields.io/badge/-Go-000?style=flat&logo=go)](https://github.com/rinchsan)
+[![](https://img.shields.io/badge/-Vue.js-000?style=flat&logo=vue.js)](https://github.com/rinchsan)
 [![](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)](https://github.com/rinchsan)
 [![](https://img.shields.io/badge/-Kubernetes-000?style=flat&logo=kubernetes)](https://github.com/rinchsan)
 [![](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql)](https://github.com/rinchsan)
