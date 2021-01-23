@@ -11,14 +11,12 @@
 [![](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql)](https://github.com/rinchsan)
 [![](https://img.shields.io/badge/-Redis-000?style=flat&logo=redis)](https://github.com/rinchsan)
 [![](https://img.shields.io/badge/-Elasticsearch-000?style=flat&logo=elasticsearch)](https://github.com/rinchsan)
-
 [![](https://img.shields.io/badge/-AWS-000?style=flat&logo=amazon-aws)](https://github.com/rinchsan)
 [![](https://img.shields.io/badge/-GCP-000?style=flat&logo=google-cloud)](https://github.com/rinchsan)
 [![](https://img.shields.io/badge/-Firebase-000?style=flat&logo=firebase)](https://github.com/rinchsan)
 [![](https://img.shields.io/badge/-Datadog-000?style=flat&logo=datadog)](https://github.com/rinchsan)
 [![](https://img.shields.io/badge/-Sentry-000?style=flat&logo=sentry)](https://github.com/rinchsan)
 [![](https://img.shields.io/badge/-Twilio-000?style=flat&logo=twilio)](https://github.com/rinchsan)
-
 [![](https://img.shields.io/badge/-Terraform-000?style=flat&logo=terraform)](https://github.com/rinchsan)
 [![](https://img.shields.io/badge/-Helm-000?style=flat&logo=helm)](https://github.com/rinchsan)
 [![](https://img.shields.io/badge/-GitHub_Actions-000?style=flat&logo=github-actions)](https://github.com/rinchsan)
