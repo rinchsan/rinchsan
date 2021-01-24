@@ -5,6 +5,7 @@
 ## :nerd_face: I like ...
 
 [![](https://img.shields.io/badge/-Go-000?style=flat&logo=go)](https://github.com/rinchsan)
+[![](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)](https://github.com/rinchsan)
 [![](https://img.shields.io/badge/-Vue.js-000?style=flat&logo=vue.js)](https://github.com/rinchsan)
 [![](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)](https://github.com/rinchsan)
 [![](https://img.shields.io/badge/-Kubernetes-000?style=flat&logo=kubernetes)](https://github.com/rinchsan)
