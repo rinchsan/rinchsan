@@ -26,6 +26,12 @@
 [![](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)](https://github.com/rinchsan)
 [![](https://img.shields.io/badge/-Slack-000?style=flat&logo=slack)](https://github.com/rinchsan)
 
+## :sunglasses: I'm maintaining ...
+
+[![](https://github-readme-stats.vercel.app/api/pin?username=rinchsan&repo=gosimports)](https://github.com/rinchsan/gosimports)
+[![](https://github-readme-stats.vercel.app/api/pin?username=rinchsan&repo=device-check-go)](https://github.com/rinchsan/device-check-go)
+[![](https://github-readme-stats.vercel.app/api/pin?username=rinchsan&repo=renovate-config-validator)](https://github.com/rinchsan/renovate-config-validator)
+
 ## :space_invader: Public Activities
 
 [![](https://github-readme-stats.vercel.app/api/top-langs?username=rinchsan&theme=gruvbox&layout=compact&langs_count=10)](https://github.com/rinchsan)
