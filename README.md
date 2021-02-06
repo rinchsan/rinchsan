@@ -33,7 +33,7 @@
 [![](https://github-readme-stats.vercel.app/api/pin?username=rinchsan&repo=renovate-config-validator)](https://github.com/rinchsan/renovate-config-validator)
 [![](https://github-readme-stats.vercel.app/api/pin?username=rinchsan&repo=device-check-go)](https://github.com/rinchsan/device-check-go)
 
-## :space_invader: Public Activities
+## :space_invader: [Public Activities](https://github.com/pulls?q=author%3Arinchsan+is%3Apublic)
 
 [![](https://github-readme-stats.vercel.app/api/top-langs?username=rinchsan&theme=gruvbox&layout=compact&langs_count=10)](https://github.com/rinchsan)
 [![](https://github-readme-stats.vercel.app/api?username=rinchsan&theme=gruvbox&show_icons=true&include_all_commits=true)](https://github.com/rinchsan)
