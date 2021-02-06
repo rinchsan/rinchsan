@@ -39,7 +39,7 @@
 [![](https://github-readme-stats.vercel.app/api?username=rinchsan&theme=gruvbox&show_icons=true&include_all_commits=true)](https://github.com/rinchsan)
 [![](https://github-profile-trophy.vercel.app?username=rinchsan&theme=gruvbox&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/rinchsan)
 
-[See more ...](https://github.com/pulls?q=author%3Arinchsan+is%3Apublic)
+:running_man: **[See more ...](https://github.com/pulls?q=author%3Arinchsan+is%3Apublic)**
 
 ## :robot: Private Activities
 
