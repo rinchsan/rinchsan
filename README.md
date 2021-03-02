@@ -26,6 +26,7 @@
 [![](https://img.shields.io/badge/-Codecov-000?style=flat&logo=codecov)](https://github.com/rinchsan)
 [![](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)](https://github.com/rinchsan)
 [![](https://img.shields.io/badge/-Slack-000?style=flat&logo=slack)](https://github.com/rinchsan)
+[![](https://img.shields.io/badge/-Notion-000?style=flat&logo=notion)](https://github.com/rinchsan)
 
 ## :sunglasses: I'm maintaining ...
 
