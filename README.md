@@ -30,9 +30,9 @@
 
 ## :sunglasses: I'm maintaining ...
 
-[![](https://github-readme-stats.vercel.app/api/pin?username=rinchsan&repo=gosimports)](https://github.com/rinchsan/gosimports)
-[![](https://github-readme-stats.vercel.app/api/pin?username=rinchsan&repo=renovate-config-validator)](https://github.com/rinchsan/renovate-config-validator)
-[![](https://github-readme-stats.vercel.app/api/pin?username=rinchsan&repo=device-check-go)](https://github.com/rinchsan/device-check-go)
+[![](https://github-readme-stats.vercel.app/api/pin?username=rinchsan&theme=gruvbox&repo=gosimports)](https://github.com/rinchsan/gosimports)
+[![](https://github-readme-stats.vercel.app/api/pin?username=rinchsan&theme=gruvbox&repo=renovate-config-validator)](https://github.com/rinchsan/renovate-config-validator)
+[![](https://github-readme-stats.vercel.app/api/pin?username=rinchsan&theme=gruvbox&repo=device-check-go)](https://github.com/rinchsan/device-check-go)
 
 ## :space_invader: Public Activities
 
