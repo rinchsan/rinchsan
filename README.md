@@ -50,18 +50,6 @@
 [![](https://img.shields.io/badge/-Slack-000?style=flat&logo=slack)](https://github.com/rinchsan)
 [![](https://img.shields.io/badge/-Notion-000?style=flat&logo=notion)](https://github.com/rinchsan)
 
-## :mortar_board: Education
-
-- [National Institute of Technology, Akashi College](https://www.akashi.ac.jp) (Major in Electrical and Computer Engineering) (2011-2016)
-- [The University of Tokyo](https://www.u-tokyo.ac.jp) (Major in Electrical and Electronic Engineering) (2016-2019)
-
-## :technologist: Career
-
-- Software Engineer Internship at [@hatena](https://github.com/hatena) / [@rakuten](https://github.com/rakutentech) / [@wantedly](https://github.com/wantedly) / [@dena](https://github.com/dena) / [@cyberagent](https://github.com/cyberagent) (2017-2018)
-- Software Engineer Internship at [@cyberagent](https://github.com/cyberagent) (2018-2019)
-- Software Engineer at [@cyberagent](https://github.com/cyberagent) (2019-2020)
-- Software Engineer at [@snkrdunk](https://github.com/snkrdunk) (2020-)
-
 ## :gear: Powered by ...
 
 [![](https://img.shields.io/badge/-Shields.io-000?style=flat&logo=shields.io)](https://shields.io)
