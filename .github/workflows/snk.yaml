@@ -13,7 +13,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Generate gif
+      - name: Generate svg
         uses: Platane/snk@v2
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -25,4 +25,4 @@ jobs:
           add: dist
           author_name: 'snk[bot]'
           author_email: snk-bot@example.com
-          message: Generate snk gif
+          message: Generate snk svg
