@@ -2,6 +2,8 @@
 [![](https://img.shields.io/badge/-Twitter-000?style=flat&logo=twitter)](https://twitter.com/rinchsan)
 [![](https://img.shields.io/badge/-Zenn-000?style=flat&logo=zenn)](https://zenn.dev/rinchsan)
 
+[![](dist/snk.svg)](https://github.com/rinchsan)
+
 ## :sunglasses: I'm maintaining ...
 
 [![](https://github-readme-stats.vercel.app/api/pin?username=rinchsan&theme=gruvbox&repo=gosimports)](https://github.com/rinchsan/gosimports)
