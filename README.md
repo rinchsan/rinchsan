@@ -1,6 +1,6 @@
 [![](https://komarev.com/ghpvc/?username=rinchsan&color=000000&label=👟)](https://github.com/rinchsan)
-[![](https://img.shields.io/badge/-Twitter-000?style=flat&logo=twitter)](https://twitter.com/rinchsan)
-[![](https://img.shields.io/badge/-Zenn-000?style=flat&logo=zenn)](https://zenn.dev/rinchsan)
+[![](https://img.shields.io/badge/-rinchsan-000?style=flat&logo=x)](https://x.com/rinchsan)
+[![](https://img.shields.io/badge/-rinchsan-000?style=flat&logo=zenn)](https://zenn.dev/rinchsan)
 
 [![](dist/snk.svg)](https://github.com/rinchsan)
 
