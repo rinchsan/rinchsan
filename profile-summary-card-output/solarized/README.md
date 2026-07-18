@@ -32,3 +32,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/rinchsan/rinchsan/master/profile-summary-card-output/solarized/4-productive-time.svg)
+```
+
+    
