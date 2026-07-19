@@ -32,13 +32,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/rinchsan/rinchsan/master/profile-summary-card-output/gruvbox/4-productive-time.svg)
-```
-
-    
