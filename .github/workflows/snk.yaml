@@ -20,7 +20,7 @@ jobs:
           outputs: |
             dist/snk.svg?palette=github-dark
       - name: Commit
-        uses: EndBug/add-and-commit@v9
+        uses: EndBug/add-and-commit@v10
         with:
           add: dist
           author_name: 'snk[bot]'
