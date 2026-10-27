@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v5
       - name: Generate cards
         uses: vn7n24fzkq/github-profile-summary-cards@v0.6.0
         env:
